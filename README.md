@@ -4,7 +4,7 @@ Features and bug reporting for AbcMusicStudio project
 
 Welcome! 👋  
 
-This repository is the **public place to report bugs, request features, and share feedback** for **My App**.
+This repository is the **public place to report bugs, request features, and share feedback** for **AbcMusicStudio**.
 
 The main source code repository for the application is private, but we want to make it easy for users to help improve the project.
 
